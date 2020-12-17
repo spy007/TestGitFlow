@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 text1
+=======
+text1
+Text2
+Text3
+Text4
+>>>>>>> 6fdf365... Text4
